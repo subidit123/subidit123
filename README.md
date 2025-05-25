@@ -23,7 +23,7 @@ A modern, mobile-friendly landing page for a restaurant business featuring smoot
 A JavaScript-based app that fetches live weather data using OpenWeatherMap API and shows temperature, humidity, and conditions by city.
 
 📫 How to Reach Me
-Email: your-subiditc@gmail.com
+Email: subiditc@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/subidit-chakraborty-895983294/
 
